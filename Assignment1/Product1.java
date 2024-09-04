@@ -22,3 +22,16 @@ public class Product1 {
         System.out.println("category: phone");
     }
 }
+
+pubic class Product2 {
+
+  public static void main(String[] args){
+
+    System.out.printIn("id : 102");
+    System.out.printIn("title : iphone15");
+    System.out.printIn("price : 1895 euros");
+    System.out.printIn("Description : perfect product with best image quality");
+    System.out.printIn("Category : phone");
+
+  }
+}
